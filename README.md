@@ -1,4 +1,4 @@
-# master
+# WebApp
 WebApplication-Tax calculator:
 -Web application created by using HTML,CSS and JavaScript.
 -index.html defines the layout of the application.
